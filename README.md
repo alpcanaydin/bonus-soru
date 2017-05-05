@@ -9,13 +9,14 @@ Haber datası `data.json`, stop word'ler ise `stop_words.json` dosyasında bulun
 ### Yapılması Gereken
 `data.json` dosyasındaki `Description` değerlerinde bulunan cümleler içerisindeki kelimelerin kaç defa kullanıldığını bulmak. `stop_words.json` dosyasındaki kelimelerin ise sayımdan çıkarılması gerekiyor.
 
+**Cevabınızı (kodları) bu repo'ya issue olarak veya Youtube'da bu video'ya yorum olarak yazabilirisiniz.**
+
 ### Dikkat Edilmesi Gerekenler.
 
 * Büyük-küçük harfin kelimenin sayılmasına etki etmemesi gerekiyor. İZMİR ve izmir tamamen aynı kelimeler olarak sayılmalı.
 * For loop kullanmak yasak. Onun yerine olabildiğince Array metodlarına yönelmek gerekiyor.
 * Kelimeleri sayarken köklerine ayırmanıza **gerek yok**.
 * Sonunda noktalama işareti bulunan kelimelere dikkat etmekte fayda var.
-* Cevabınızı bu repo'ya issue olarak veya Youtube'da bu video'ya yorum olarak yazabilirisiniz.
 
 ### Beklenen Çıktı
 Aşağıdaki sayılar tamamen rastgele yazılmıştır :)
